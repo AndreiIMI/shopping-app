@@ -37,7 +37,7 @@
     <scm>
         <connection>scm:git:git@github.com:AndreiIMI/shopping-app.git</connection>
         <developerConnection>scm:git:git@github.com:AndreiIMI/shopping-app.git</developerConnection>
-        <tag></tag>
+        <tag>HEAD</tag>
     </scm>
      
 </project>
