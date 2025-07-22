@@ -23,11 +23,16 @@
 
     
     <distributionManagement>
-        <repository>
-            <id>nexus-releases</id>
-            <url>http://192.168.40.134:8081/repository/nexus-repo-releases/</url>
-        </repository>
+       <repository>
+          <id>nexus-releases</id>
+          <url>http://192.168.40.134:8081/repository/nexus-repo-releases/</url>
+       </repository>
+       <snapshotRepository>
+          <id>nexus-snapshots</id>
+          <url>http://192.168.40.134:8081/repository/nexus-repo-snapshots/</url>
+       </snapshotRepository>
     </distributionManagement>
+
 
     <scm>
         <connection>scm:git:git@github.com:AndreiIMI/shopping-app.git</connection>
