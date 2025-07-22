@@ -4,7 +4,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>shopping-app</artifactId>
-    <version>2.0.9.GA</version>
+    <version>2.0.10-SNAPSHOT</version>
     <packaging>war</packaging>
 
     <dependencies>
@@ -37,7 +37,7 @@
     <scm>
         <connection>scm:git:git@github.com:AndreiIMI/shopping-app.git</connection>
         <developerConnection>scm:git:git@github.com:AndreiIMI/shopping-app.git</developerConnection>
-        <tag>2.0.9.GA</tag>
+        <tag>HEAD</tag>
     </scm>
      
 </project>
